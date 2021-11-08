@@ -1,0 +1,10 @@
+.header{
+    margin-left: 350px;
+}
+#mydiv{
+    border: 5px solid rgb(0, 0, 3);
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(147, 147, 194);
+}
